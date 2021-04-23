@@ -1,0 +1,6 @@
+printer_key:551234
+printer_name:测试站点1
+printer_addrx:116.4357625386505
+printer_addry:39.857352819686724
+printer_info:家
+serviceURL:ws://localhost:8080/PrintRoom/myWs
